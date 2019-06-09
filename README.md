@@ -22,7 +22,7 @@ kemudian git add *
 
 git commit -m "ini tulisan sesuai anda" 
 
-git remote add origin master https://github.com/usernamemu/namaRepositorymu.git 
+git remote add origin https://github.com/usernamemu/namaRepositorymu.git 
 
 git push origin master -f 
 
